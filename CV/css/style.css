@@ -1,0 +1,124 @@
+
+
+body {
+    background-color: #d4dde1;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.profile-container {
+    display: flex;
+    justify-content: center;
+    margin-top: -75px; 
+}
+
+.box {
+    background-color: #fff;
+    height: 1540px;
+    width: 1000px;
+}
+#img_redondo {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.container {
+    background-color: #fff;
+    width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 20px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+
+}
+header {
+    text-align: center;
+    position: relative;
+}
+
+header h1 {
+    margin-top: 20px; 
+    font-size: 24px;
+    color: #333;
+}
+
+header h2 {
+    color: #777;
+    font-size: 18px;
+}
+
+.contact-info {
+    font-size: 16px;
+    color: #555;
+}
+
+.contact-info a {
+    color: #0073b1;
+    text-decoration: none;
+}
+
+.location {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #777;
+}
+
+section {
+    margin-top: 20px;
+}
+
+section h2 {
+    font-size: 20px;
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+section h3 {
+    font-size: 18px;
+    color: #333;
+}
+
+section p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
+
+section ul ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+}   
